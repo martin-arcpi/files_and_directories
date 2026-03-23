@@ -1,0 +1,9 @@
+files.txt
+.DS_Store
+song.txt
+settings.txt
+README.md
+.gitignore
+app.py
+.git
+profile.txt
