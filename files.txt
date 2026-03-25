@@ -1,9 +1,9 @@
-files.txt
-.DS_Store
-song.txt
-settings.txt
-README.md
-.gitignore
-app.py
-.git
-profile.txt
+files.txt  |    0 Bytes
+.DS_Store  |    6148 Bytes
+song.txt  |    0 Bytes
+settings.txt  |    0 Bytes
+README.md  |    75 Bytes
+.gitignore  |    38 Bytes
+app.py  |    267 Bytes
+.git  |    448 Bytes
+profile.txt  |    0 Bytes

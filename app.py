@@ -6,7 +6,7 @@ import csv
 
 with open("files.txt", "w") as f:
     for file_name in os.listdir():
-        f.write(f"{file_name}  |    {os.path.getsize(file_name)}\n")
+        f.write(f"{file_name}  |    {os.path.getsize(file_name)} Bytes\n")
 
 
 
